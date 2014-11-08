@@ -4,4 +4,4 @@
 
 This site is work in progress and not everything is set up.
 
-Adding pages for [Getting Started](/getstarted/intro.html).
+So far you can access [Getting Started](/getstarted/intro.html) for XQ Property Valuation.
