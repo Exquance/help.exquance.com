@@ -11,6 +11,6 @@ This is a quick startup guide for the users of [XQ Property Valuation](http://ex
 
 [User interface](/getstarted/interface.html) - basics of the application UI
 
----
 
-For more practical manuals on how to begin and conduct a valuation see the [How To](/howto/index.html)
+
+_See also:_ more practical manuals on [How To](/howto/index.html) begin and conduct a valuation 
