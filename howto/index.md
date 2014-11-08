@@ -2,7 +2,10 @@
 ---
 ## How To
 
+
 ### Input data and run valuations
+
+---
 
 [Start a new valuation](/howto/startvaluation.html)
 
@@ -16,13 +19,19 @@
 
 [Set up valuation attumptions](/howto/valuation.html)
 
+
 ### Create template-based reports
+
+---
 
 [Generate valuation reports](/howto/reportbuilder.html)
 
 [Edit report templates](/howto/reportdesigner.html)
 
+
 ### Use special features
+
+---
 
 [Use the map](/howto/map.html)
 
