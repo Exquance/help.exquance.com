@@ -1,0 +1,6 @@
+timezone: UTC
+encoding: utf-8
+redcarpet:
+  extensions: [smart]
+kramdown:
+  input: GFM
