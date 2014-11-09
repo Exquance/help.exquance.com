@@ -6,7 +6,7 @@ This is a quick startup guide for the users of [XQ Property Valuation](http://ex
 
 
 * [Data organization](/getstarted/data.html) - principle concepts
-* [Principle system components](/getstarted/system.html) - description of XQ tools
+* [Principal system components](/getstarted/system.html) - description of XQ tools
 * [User interface](/getstarted/interface.html) - basics of the application UI
 
 
