@@ -1,4 +1,5 @@
 ---
+[XQ Helpdesk](http://help.exquance.com) | How To
 ---
 ## How To
 
@@ -28,4 +29,4 @@ Short guides on how to use main features of the application.
 
 * [Use the map](/howto/map.html)
 * [Publish interactive valuation reports](/howto/xqonline.html)
-* [Exchange property data using the mobile app](/howto/xactvu.html)
+* [Update property data using the mobile app](/howto/xactvu.html)
