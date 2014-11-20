@@ -1,6 +1,7 @@
 ---
-[XQ Helpdesk](http://help.exquance.com) | How To
 ---
+[XQ Helpdesk](http://help.exquance.com) | How To
+
 ## How To
 
 Short guides on how to use main features of the application.
