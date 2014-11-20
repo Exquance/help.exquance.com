@@ -1,5 +1,6 @@
 timezone: UTC
 encoding: utf-8
+exclude: ["vendor"]
 redcarpet:
   extensions: [smart]
 kramdown:
