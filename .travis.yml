@@ -3,3 +3,10 @@ script: "bundle exec jekyll build"
 branches:
   only:
     - gh-pages
+notifications:
+  recipients:
+    - berkus@exquance.com
+    - ivan@exquance.com
+  email:
+    on_success: change
+    on_failure: always
