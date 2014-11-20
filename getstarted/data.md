@@ -1,6 +1,7 @@
 ---
-[XQ Helpdesk](http://help.exquance.com) | [Getting Started](/getstarted/intro.html) | Data organization
 ---
+[XQ Helpdesk](http://help.exquance.com) | [Getting Started](/getstarted/intro.html) | Data organization
+
 ### Data organization
 
 #### Project and Analysis

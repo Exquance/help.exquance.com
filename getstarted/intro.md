@@ -1,6 +1,7 @@
 ---
-[XQ Helpdesk](http://help.exquance.com) | Getting Started
 ---
+[XQ Helpdesk](http://help.exquance.com) | Getting Started
+
 ### Getting Started
 
 This is a quick startup guide for the users of [XQ Property Valuation](http://exquance.com/products-valuation) application.
