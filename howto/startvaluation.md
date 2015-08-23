@@ -1,3 +1,5 @@
+---
+---
 ![XQ Guides & Manuals](../images/xq-guides-manuals.png)
 ----------
 ## How to start a valuation ##
