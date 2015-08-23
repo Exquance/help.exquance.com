@@ -1,4 +1,6 @@
 language: ruby
+rvm:
+  - rbx-2.1.0
 script: "bundle exec jekyll build"
 branches:
   only:
