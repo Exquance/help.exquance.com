@@ -37,6 +37,6 @@ When the **Create new project** dialogue appears, enter the name for your new pr
 
 ----------
 
-When you press the `Create` button, your new analysis within the new project will be created and automatically open for further editing.
+When you press the `Create` button, your new analysis within the new project will be created and automatically open for further [editing assets](../howto/edit-assets.html) and assumptions.
 
 >*If you wish to immediately share the newly created project with your colleagues, press the **Home Menu button** ![Home Menu Button](../images/home-menu-button.png) and navigate to **Members** section for the project to [add new project members](../howto/edit-project-members.html#addnew).*
