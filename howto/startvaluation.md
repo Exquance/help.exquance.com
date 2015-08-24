@@ -1,5 +1,7 @@
 ---
 ---
+[XQ Helpdesk](http://help.exquance.com) > [How To](http://help.exquance.com/howto/) > Start a valuation
+
 ## How to start a valuation ##
 
 To start a new valuation, you can create a new [project](../getstarted/data.html#project-analysis), or add a new [analysis](../getstarted/data.html#project-analysis) to an existing project.
