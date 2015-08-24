@@ -27,4 +27,4 @@ Quick guides on how to use main features of the application.
 * [Publish interactive reports on XQ Online](/howto/xqonline.html)
 * [Synchronize with XQ Mobile](/howto/xqmobile.html)
 
->_See also:_ [Getting started](/getstarted/intro.html) - general concepts and overview
+>_See also:_ [Getting started](/getstarted/index.html) - general concepts and overview
