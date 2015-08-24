@@ -29,3 +29,12 @@ User Manual for [XQ Property Valuation](http://exquance.com/products-valuation) 
   * [Get market data from XQ Markets](/howto/xqmarkets.html)
   * [Publish interactive reports on XQ Online](/howto/xqonline.html)
   * [Synchronize with XQ Mobile](/howto/xqmobile.html)
+
+
+----------
+
+If you don't find here answers to your questions, please don't hesitate to contact us directly, and we will do our best to serve you as soon as it's possible:
+
+  - Email: [**support@exquance.com**](mailto:support@exquance.com)
+  - Skype: [**exquance**](callto:exquance)
+  - Online: [**feedback.exquance.com**](http://feedback.exquance.com) _(requires login)_
