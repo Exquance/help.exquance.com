@@ -1,6 +1,7 @@
 ---
 ---
 [XQ Helpdesk](http://help.exquance.com) > [Getting started](http://help.exquance.com/getstarted/) > XQ Tools
+
 ## What is XQ ##
 
 **XQ** is short for **Exquance**. It is a brandname of specialized software solutions for the real estate investment industry developed by [Exquance Software](http://exquance.com/ "Exquance Homepage").
