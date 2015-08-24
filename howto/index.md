@@ -1,7 +1,5 @@
 ---
 ---
-![XQ Guides & Manuals](../images/xq-guides-manuals.png)
-----------
 ## How to... ##
 
 Quick guides on how to use main features of the application.
