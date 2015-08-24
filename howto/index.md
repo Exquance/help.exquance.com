@@ -1,33 +1,28 @@
 ---
 ---
-[XQ Helpdesk](http://help.exquance.com) | How To
+![XQ Guides & Manuals](../images/xq-guides-manuals.png)
+----------
+## How to... ##
 
-## How To
-
-Short guides on how to use main features of the application.
-
----
+Quick guides on how to use main features of the application.
 
 ### Input data and run valuations
 
+* [Use dictionaries](/howto/use-dictionaries.html)
 * [Start a new valuation](/howto/startvaluation.html)
-* [Add and edit properties](/howto/properties.html)
-* [Edit rent roll assumptions](/howto/rentroll.html)
-* [Edit oprating expenses assumptions](/howto/opex.html)
+* [Edit assets](/howto/edit-assets.html)
+* [Edit rent roll](/howto/rentroll.html)
+* [Edit oprating expenses](/howto/opex.html)
 * [Generate cash flows](/howto/cashflow.html)
-* [Set up valuation attumptions](/howto/valuation.html)
-
----
+* [Finetune valuations](/howto/valuation.html)
 
 ### Create template-based reports
 
-* [Generate valuation reports](/howto/reportbuilder.html)
+* [Generate reports](/howto/reportbuilder.html)
 * [Edit report templates](/howto/reportdesigner.html)
-
----
 
 ### Use special features
 
-* [Use the map](/howto/map.html)
-* [Publish interactive valuation reports](/howto/xqonline.html)
-* [Update property data using the mobile app](/howto/xactvu.html)
+* [Get market data from XQ Markets](/howto/xqmarkets.html)
+* [Publish interactive reports on XQ Online](/howto/xqonline.html)
+* [Synchronize with XQ Mobile](/howto/xqmobile.html)
