@@ -7,6 +7,7 @@
  *
  * Designed and built with all the love in the world @twitter by @mdo and @fat.
  */
+@import url(http://fonts.googleapis.com/css?family=Lato);
 
 .clearfix {
   *zoom: 1;
@@ -222,10 +223,11 @@ textarea {
 }
 
 body {
-  margin: 0;
-  font-family: 'Open Sans', sans-serif;
-  font-size: 14px;
-  line-height: 20px;
+  margin: 0 auto 0 auto;
+  width: 740px;
+  font-family: 'Lato', sans-serif;
+  font-size: 13px;
+  line-height: 21px;
   color: #333333;
   background-color: #ffffff;
 }
@@ -1065,7 +1067,7 @@ input,
 button,
 select,
 textarea {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 
 label {
@@ -4510,7 +4512,7 @@ input[type="submit"].btn.btn-mini {
 .navbar-search .search-query {
   padding: 4px 14px;
   margin-bottom: 0;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Lato', sans-serif;
   font-size: 13px;
   font-weight: normal;
   line-height: 1;
