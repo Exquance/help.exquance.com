@@ -223,8 +223,6 @@ textarea {
 }
 
 body {
-  margin: 0 auto 0 auto;
-  width: 740px;
   font-family: 'Lato', sans-serif;
   font-size: 13px;
   line-height: 21px;
@@ -921,9 +919,9 @@ blockquote {
 
 blockquote p {
   margin-bottom: 0;
-  font-size: 17.5px;
-  font-weight: 300;
-  line-height: 1.25;
+  font-size: 13px;
+  line-height: 21px;
+  background-color: #fdfdfd;
 }
 
 blockquote small {
