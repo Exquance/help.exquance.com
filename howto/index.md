@@ -1,5 +1,7 @@
 ---
 ---
+[XQ Helpdesk](http://help.exquance.com) > How to
+
 ## How to... ##
 
 Quick guides on how to use main features of the application.
@@ -24,3 +26,5 @@ Quick guides on how to use main features of the application.
 * [Get market data from XQ Markets](/howto/xqmarkets.html)
 * [Publish interactive reports on XQ Online](/howto/xqonline.html)
 * [Synchronize with XQ Mobile](/howto/xqmobile.html)
+
+>_See also:_ [Getting started](/getstarted/intro.html) - general concepts and overview

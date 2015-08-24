@@ -7,8 +7,8 @@ Welcome to XQ Helpdesk. Here you can find visual guides and manuals which will h
 
 ### Get started ###
 Learn about XQ products and get a general understanding of XQ environment
+* [XQ tools](/getstarted/xqtools.html) - overview of XQ applications
 * [Data organization](/getstarted/data.html) - principle concepts
-* [XQ tools](/getstarted/xqtools.html) - description of XQ applications
 * [User interface](/getstarted/interface.html) - basics of [XQ Property Valuation](http://exquance.com/products-valuation) desktop application
 
 ### Step-by-step guides###
