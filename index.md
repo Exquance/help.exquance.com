@@ -1,17 +1,19 @@
 ---
 ---
 
-## XQ Helpdesk ##
+## XQ Helpdesk##
 
 Welcome to XQ Helpdesk. Here you can find visual guides and manuals which will help you learn how to use XQ products more expeditiously.
 
-### Get started ###
+### Get started###
+
 Learn about XQ products and get a general understanding of XQ environment
 * [XQ tools](/getstarted/xqtools.html) - overview of XQ applications
 * [Data organization](/getstarted/data.html) - principle concepts
 * [User interface](/getstarted/interface.html) - basics of [XQ Property Valuation](http://exquance.com/products-valuation) desktop application
 
 ### Step-by-step guide###
+
 Quick start-up guide for [XQ Property Valuation](http://exquance.com/products-valuation) desktop application
 
 * Input data and run valuations
@@ -33,7 +35,8 @@ Quick start-up guide for [XQ Property Valuation](http://exquance.com/products-va
 
 
 ----------
-### Download full user guide ###
+
+### Download User Guide in PDF###
 
 Feel like you need more details and clarification? Click the link below to download the most recent PDF user guide.
 
